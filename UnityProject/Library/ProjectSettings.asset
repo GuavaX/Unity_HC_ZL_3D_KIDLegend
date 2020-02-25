@@ -168,7 +168,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.KID.MouseLegend
+    Android: com.GuavaX.MouseLegend
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -263,8 +263,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/KID/Unity_HC_ZL_3D_KIDLegend/user.keystore
-  AndroidKeyaliasName: kid
+  AndroidKeystoreName: C:/Users/appedu/Desktop/Unity_HC_ZL_3D_KIDLegend/user.keystore
+  AndroidKeyaliasName: guavax
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
@@ -746,10 +746,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 39877828-ed8f-4790-b5f5-a66fbbda0515
+  cloudProjectId: b9cb0e23-9be0-4626-bfc7-adc38fe749bd
   framebufferDepthMemorylessMode: 0
-  projectName: UnityProject (2)
-  organizationId: kid-studio
+  projectName: "\u8001\u9F20\u50B3\u8AAA"
+  organizationId: s9544033
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
